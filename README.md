@@ -18,14 +18,14 @@ Maven
 <dependency>
     <groupId>cn.hyperchain</groupId>
     <artifactId>litesdk</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
 Gradle
 
 ```
-compile group: 'cn.hyperchain', name: 'litesdk', version: '0.1.0'
+compile group: 'cn.hyperchain', name: 'litesdk', version: '1.0.1'
 ```
 
 |  platform version   | sdk version  |
