@@ -199,6 +199,7 @@ public interface TxService {
      * @param nodeIds   specific ids
      * @return {@link Request} of {@link TxResponse}
      */
+    @Deprecated
     Request<TxResponse> getTransactionsByTime(BigInteger startTime, BigInteger endTime, int... nodeIds);
 
     /**
